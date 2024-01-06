@@ -1,6 +1,5 @@
-Hey there !
-
-## I am Pramodya
+##Hey there !
+# I am Pramodya
 ### Machine Learning developer from Sri Lanka
 
 - A dedicated Engineering Undergraduate at Moratuwa University, with a strong passion for AI, ML, and Deep Learning. 
