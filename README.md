@@ -45,7 +45,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574" alt="Nest" height="50" /></a>
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" height="50" /></a> 
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" height="50" /></a>
 <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 15px; border-radius: 10px;" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" height="50" /></a>  
